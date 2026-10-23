@@ -1,0 +1,6 @@
+{
+  "summary":  "Rencana implementasi game catur 1:1 modern dan responsif dengan mode offline (Pass-and-Play & AI Bot) serta mode daring (Online Multiplayer real-time via WebSocket), efek suara Web Audio prosedural, jam catur turnamen, dan aset visual premium.",
+  "updatedAt":  "2026-10-23T03:45:41.251567011Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
